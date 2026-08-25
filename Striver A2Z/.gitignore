@@ -1,0 +1,11 @@
+# Java compiled files
+*.class
+
+# VS Code temporary files
+tempCodeRunnerFile.java
+
+# JDK folder
+oracleJdk-26/
+
+# Temporary Java files
+patternTemp.java
